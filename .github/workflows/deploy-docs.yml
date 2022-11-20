@@ -13,5 +13,5 @@ jobs:
         ACCESS_TOKEN: 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
         TARGET_REPO: bulaya/bulaya.github.io
         TARGET_BRANCH: master
-        BUILD_SCRIPT: yarn && yarn docs:build
+        BUILD_SCRIPT: pnpm && pnpm docs:build
         BUILD_DIR: src/.vuepress/dist/

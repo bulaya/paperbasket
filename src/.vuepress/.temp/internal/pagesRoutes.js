@@ -1,5 +1,5 @@
 export const pagesRoutes = [
-  ["v-8daa1a0e","/",{"t":"主页","i":"home","y":"h","r":{"minutes":0.58,"words":173}},["/index.html","/README.md"]],
+  ["v-8daa1a0e","/",{"t":"主页","i":"home","y":"h","d":"2022-11-20T08:58:13.000Z","r":{"minutes":0.58,"words":173}},["/index.html","/README.md"]],
   ["v-0db8ce7b","/bigdata/flink/%E5%AE%89%E8%A3%85.html",{"t":"安装","y":"a","e":"洒洒水","a":"bulaya","d":"2022-11-20T00:00:00.000Z","l":"2022年11月20日","c":["大数据","flink"],"g":["flink"],"r":{"minutes":0.07,"words":21}},["/bigdata/flink/安装.html","/bigdata/flink/%E5%AE%89%E8%A3%85","/bigdata/flink/安装.md","/bigdata/flink/%E5%AE%89%E8%A3%85.md"]],
   ["v-3706649a","/404.html",{"t":"","y":"p"},["/404"]],
   ["v-5bc93818","/category/",{"t":"分类","y":"p"},["/category/index.html"]],
