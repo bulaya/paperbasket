@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "https://github.com/bulaya/bulaya.github.io",
+  repo: "https://github.com/bulaya/paperbasket",
 
   docsDir: "docs",
 
@@ -75,12 +75,11 @@ export default hopeTheme({
       /**
        * Using Giscus
        */
-    //   provider: "Giscus",
-    //   repo: "vuepress-theme-hope/giscus-discussions",
-    //   repoId: "R_kgDOG_Pt2A",
-    //   category: "Announcements",
-    //   categoryId: "DIC_kwDOG_Pt2M4COD69",
-
+      provider: "Giscus",
+      repo: "bulaya/paperbasket",
+      repoId: "R_kgDOIeByaQ",
+      category: "Comment",
+      categoryId: "DIC_kwDOIeByac4CSql9",
       /**
        * Using Twikoo
        */
