@@ -1,0 +1,28 @@
+// place your custom styles here
+.blog-hero {
+    color: #002c34 !important;
+    font-size: 3.2rem !important;
+    width: 100%;
+    // min-height: 450px;
+    // margin-top: 3.6rem;
+    position: relative;
+    overflow: hidden;
+    
+}
+.blog-hero h1 {
+    font-size: 3.2rem !important;
+}
+.blog-hero.fullscreen {
+    margin-top: 0!important;
+    height: 100vh;
+    
+}
+// .navbar1 {
+//     background-color: transparent;
+//     box-shadow: none;
+//     -webkit-backdrop-filter: none;
+//     backdrop-filter: none;
+// }
+.mask {
+    background-attachment: fixed!important;
+}

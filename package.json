@@ -1,0 +1,20 @@
+{
+  "name": "paperbasket",
+  "version": "2.0.0",
+  "description": "A project of vuepress-theme-hope",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress build src",
+    "docs:clean-dev": "vuepress dev src --clean-cache",
+    "docs:dev": "vuepress dev src"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "@vuepress/client": "2.0.0-beta.53",
+    "vue": "^3.2.45",
+    "vuepress": "2.0.0-beta.53",
+    "vuepress-plugin-search-pro": "^2.0.0-beta.123",
+    "vuepress-theme-hope": "2.0.0-beta.124"
+  }
+}
